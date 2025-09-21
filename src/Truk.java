@@ -2,6 +2,8 @@ public class Truk {
     private double muatan;       // dalam kilogram
     private double muatanMaks;   // dalam kilogram
 
+    
+
     // Konstanta konversi
     private static final double GRAVITY = 9.8;
 
